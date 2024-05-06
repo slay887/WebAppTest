@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\PowerShell Alex's task\WebApplication\bin\Release\net6.0\publish\WebApplication2.exe
+C:\Users\Acer\Desktop\PowerShell Alex's task\WebApplication\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Acer\Desktop\PowerShell Alex's task\WebApplication\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Acer\Desktop\PowerShell Alex's task\WebApplication\bin\Release\net6.0\publish\WebApplication2.dll
+C:\Users\Acer\Desktop\PowerShell Alex's task\WebApplication\bin\Release\net6.0\publish\WebApplication2.deps.json
+C:\Users\Acer\Desktop\PowerShell Alex's task\WebApplication\bin\Release\net6.0\publish\WebApplication2.runtimeconfig.json
+C:\Users\Acer\Desktop\PowerShell Alex's task\WebApplication\bin\Release\net6.0\publish\WebApplication2.pdb
